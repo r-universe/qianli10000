@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GMSimpute"]
 	path = GMSimpute
 	url = https://github.com/qianli10000/gmsimpute
-	shallow = true
-	registered = true
 [submodule "lncDIFF"]
 	path = lncDIFF
 	url = https://github.com/cran/lncDIFF
-	shallow = true
-	registered = true
 [submodule "NB.MClust"]
 	path = NB.MClust
 	url = https://github.com/cran/NB.MClust
-	shallow = true
-	registered = true
