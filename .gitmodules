@@ -5,9 +5,9 @@
 [submodule "GMSimpute"]
 	path = GMSimpute
 	url = https://github.com/qianli10000/gmsimpute
-[submodule "lncDIFF"]
-	path = lncDIFF
-	url = https://github.com/cran/lncDIFF
 [submodule "NB.MClust"]
 	path = NB.MClust
 	url = https://github.com/cran/NB.MClust
+[submodule "lncDIFF"]
+	path = lncDIFF
+	url = https://github.com/cran/lncDIFF
